@@ -1,0 +1,11 @@
+{
+  "theme": "sunset",
+  "font_size": 13,
+  "src_lang": "en",
+  "tgt_lang": "hi",
+  "real_time": false,
+  "privacy_mode": false,
+  "tts_rate": 160,
+  "mode": "general",
+  "geometry": "1050x720"
+}
